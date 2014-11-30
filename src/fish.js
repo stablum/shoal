@@ -1,12 +1,12 @@
 // MASS MULTIPLIERS - these values represent the relationship between the fish's properties and its mass
 var ENERGY = 10,
-	MAX_SPEED = 12,
+	MAX_SPEED = 36,
 	MAX_FORCE = .1,
 	SEPARATION_RANGE = 30,
 	LOOK_RANGE = 100,
 	SMELL_RANGE = 300,
 	LENGTH = 20,
-	FERTILITY = .1,
+	FERTILITY = .5,
 	BITE = .1;
 
 // Fish constructor
