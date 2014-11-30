@@ -1,10 +1,10 @@
 $(function()
 {
 	// POPULATION SETUP
-	var POPULATION = 60;
+	var POPULATION = 240;
 	var MIN_MASS = .5;
-	var MAX_MASS = 3.5;
-	var FOOD_RATIO = .2;
+	var MAX_MASS = 5.5;
+	var FOOD_RATIO = .5;
 	var SCREEN = 1.5;
 
 	// canvas elements
